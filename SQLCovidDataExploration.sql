@@ -15,8 +15,9 @@ SELECT location,
 	new_cases,
 	total_deaths,
 	population
-WHERE continent IS NOT NULL
 FROM PortfolioProject..CovidDeaths
+WHERE continent IS NOT NULL
+
 
 -- Total Cases vs. Total Deaths
 
