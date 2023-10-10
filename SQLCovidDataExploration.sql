@@ -28,7 +28,7 @@ SELECT location,
 	(total_deaths/total_cases)*100 AS death_percentage
 FROM PortfolioProject..CovidDeaths
 WHERE location like '%states%'
-AND WHERE continent IS NOT NULL
+AND continent IS NOT NULL
 ORDER BY 1, 2
 
 -- Looking at Total Cases vs. Population
