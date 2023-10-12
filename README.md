@@ -7,7 +7,7 @@
 
 ## CYCLISTIC BIKESHARE DASHBOARD – Google Data Analytics Case Study Project
 ![Cylistic Bikeshare Dashboard Image](https://github.com/jessevel/PortfolioProjects/blob/main/images/Bike-Share%20Dashboard.png)
-This project can be found [here](https://github.com/jessevel/Cyclistic-Bike-Share-Case-Study)
+The documentation of this case study project can be found [here.](https://github.com/jessevel/Cyclistic-Bike-Share-Case-Study)
 * Cleaned and structured complex data from 12 monthly CSV files (5,666,719 rows)
 * Utilized Excel for converting it to XLS file, understanding, validating and initial checking the data
 * Created tables and performed data joins, and applied cleaning, and structuring techniques using MS SQL
